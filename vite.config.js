@@ -4,6 +4,6 @@ import legacy from '@vitejs/plugin-legacy';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/react-props/',
+  base: '/react-forms/',
   plugins: [react(), legacy()]
 });
