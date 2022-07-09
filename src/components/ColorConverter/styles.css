@@ -1,0 +1,10 @@
+.color-output {
+  padding: 10px;
+  background-color: rgba(131, 131, 131, 0.685);
+  color: #fff;
+}
+
+#color-input {
+  padding: 10px;
+  margin-bottom: 5px;
+}
